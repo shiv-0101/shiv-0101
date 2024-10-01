@@ -45,30 +45,5 @@
 	<img width="auto" height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/%20Notes App-0072C6?style=for-the-badge&logo=ibm&logoColor=white" alt="Notes App" title="Notes App"/><br>
  <br><br>
- 
- <!--Add contributions you feel you shown be preseneting in your README, and do not release github data until you have something to show, placeholder is current link for contributions-->
-<!--
-<h3>🤝 My Contributions 🤝</h3><br>
-<a href="#">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rossinline&repo=github-readme-stats&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
-</a>
-<a href="#">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rossinline&repo=github-readme-stats&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
-</a>
---
-<h3>📊 My GitHub Data 📊</h3><br>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rossinline&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rossinline&layout=compact&langs_count=8&card_width=320&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF" />
-</a>
--->
 
 </div>
-
-
-<!---
-rossinline/rossinline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
