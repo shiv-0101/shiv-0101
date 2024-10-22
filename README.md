@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...-->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CCFF&center=true&random=false&width=450&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shivendra!+%F0%9F%91%8B" alt="Typing SVG" /></a>
- <p>I hope your day is going well</p>
+ <p>Smile, you're on my profile</p>
  
 <div align="center">
 <a href="mailTo:shivendrathakursst@gmail.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML" title="HTML"/></a>
